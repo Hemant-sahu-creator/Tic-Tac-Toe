@@ -38,7 +38,7 @@ body {
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
     font-size: 8vmin;
-    color: rgb(226, 43, 43);
+    color: #fff;
     background-color: #ed9e0a;
     display: flex;
     justify-content: center;
